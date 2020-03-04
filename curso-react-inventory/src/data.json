@@ -1,0 +1,38 @@
+[
+    {
+      "category": "Alimentación",
+      "price": 49.99,
+      "stocked": true,
+      "name": "Pan sin gluten"
+    },
+    {
+      "category": "Alimentación",
+      "price": 9.99,
+      "stocked": true,
+      "name": "Curry rojo"
+    },
+    {
+      "category": "Alimentación",
+      "price": 29.99,
+      "stocked": false,
+      "name": "Fresas"
+    },
+    {
+      "category": "Electrónica",
+      "price": 99.99,
+      "stocked": true,
+      "name": "iPod Touch"
+    },
+    {
+      "category": "Electrónica",
+      "price": 399.99,
+      "stocked": false,
+      "name": "iPhone 5"
+    },
+    {
+      "category": "Electrónica",
+      "price": 199.99,
+      "stocked": true,
+      "name": "Nexus 7"
+    }
+  ]
