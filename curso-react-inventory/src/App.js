@@ -8,7 +8,7 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
+  
 } from "react-router-dom";
 
 
@@ -37,7 +37,7 @@ class App extends React.Component {
 
   async componentDidMount() {
 
-    const response = await axios.get('http://157.88.192.120:3000/curso')
+    const response = await axios.get('http://www.mocky.io/v2/5e61090e330000e00d97bf16')
     this.setState({ response: response.data });
   }
 
